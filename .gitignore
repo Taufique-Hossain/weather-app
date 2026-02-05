@@ -28,4 +28,4 @@ dist-ssr
 .env
 .env.local
 .env.*.local
-firebase-config.json
+firebase-key.json
