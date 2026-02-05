@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/locationprompt.tsx","./src/components/weatherdashboard.tsx","./src/config/firebase.ts","./src/hooks/usegeolocation.ts","./src/services/firestoreservice.ts","./src/services/weatherapi.ts","./src/types/weather.ts"],"version":"5.9.3"}
