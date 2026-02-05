@@ -1,0 +1,8 @@
+{
+  "apiKey": "your-web-api-key",
+  "authDomain": "location-weather-app-3e0f9.firebaseapp.com",
+  "projectId": "location-weather-app-3e0f9",
+  "storageBucket": "location-weather-app-3e0f9.firebasestorage.app",
+  "messagingSenderId": "your-sender-id",
+  "appId": "your-app-id"
+}
