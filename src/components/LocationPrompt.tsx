@@ -69,8 +69,8 @@ export function LocationPrompt({ status, error, onRequest }: LocationPromptProps
         </Typography>
         <Typography variant="body1" color="text.secondary" sx={{ mb: 2, maxWidth: 360, mx: 'auto' }}>
           {isLoading
-            ? 'We need your location to show local weather and save it securely.'
-            : error || 'We need your location to show the weather and store it in our database.'}
+            ? 'We need your location to show local weather.'
+            : error || 'We need your location to show the weather.'}
         </Typography>
         {!isLoading && (
           <Button
